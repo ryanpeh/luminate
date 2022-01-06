@@ -1,9 +1,9 @@
 {
-  "name": "Luminate - Luminus Quiz Downloader",
+  "name": "Luminate - LumiNUS Quiz Downloader",
   "description": "Download any Luminus quiz to a PDF file.",
   "version": "0.1.0",
   "manifest_version": 3,
-  "permissions": ["storage", "activeTab", "scripting"],
+  "permissions": ["activeTab", "scripting"],
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
