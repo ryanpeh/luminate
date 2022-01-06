@@ -1,0 +1,41 @@
+body {
+  background-color: #012970;
+  color: #ef7c01;
+  text-align: center;
+}
+
+header {
+  font-family: "Bree Serif";
+  font-size: x-large;
+  padding-bottom: 3px;
+  letter-spacing: 0.05em;
+}
+
+header .lumi {
+  color: white;
+}
+
+.menu {
+  width: 14em;
+  text-align: center;
+}
+
+.menu button {
+  border: 1px solid rgb(175, 175, 175);
+  padding: 10px 20px;
+  width: 100%;
+  cursor: pointer;
+  display: block;
+  margin: 5px 0;
+  border-radius: 4px;
+}
+
+.divider {
+  width: 100%;
+  border-top: 1px solid #ccc;
+  padding-bottom: 5px;
+}
+
+.menu button:hover {
+  background-color: #ccc;
+}
